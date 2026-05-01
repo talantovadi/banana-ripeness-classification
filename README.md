@@ -16,7 +16,7 @@ Classes are defined as:
 - Stages 4–6 → Ripe
 - Stage 7 → Overripe
 
-Dataset link: **[Download Dataset]([PASTE_YOUR_LINK_HERE](https://drive.google.com/drive/folders/154i5T3BSLcC-_kOYONwJSk2HDltBZY1B?usp=sharing))**
+Dataset link: **[View Dataset](https://drive.google.com/drive/folders/154i5T3BSLcC-_kOYONwJSk2HDltBZY1B?usp=sharing)**
 
 ## Models Used
 - Random Forest
