@@ -4,9 +4,9 @@ This project presents a comparative study of machine learning and deep learning 
 
 ## Problem
 Accurate identification of fruit ripeness is important for retail and supply chain management. This project aims to classify bananas into three categories:
-- Unripe
-- Ripe
 - Overripe
+- Ripe
+- Unripe
 
 ## Dataset
 The dataset consists of 9,960 images collected over 12 days from 22 bananas captured under natural lighting conditions.
@@ -16,7 +16,7 @@ Classes are defined as:
 - Stages 4–6 → Ripe
 - Stage 7 → Overripe
 
-📎 Dataset link: **[Download Dataset]([PASTE_YOUR_LINK_HERE](https://drive.google.com/drive/folders/154i5T3BSLcC-_kOYONwJSk2HDltBZY1B?usp=sharing))**
+Dataset link: **[Download Dataset]([PASTE_YOUR_LINK_HERE](https://drive.google.com/drive/folders/154i5T3BSLcC-_kOYONwJSk2HDltBZY1B?usp=sharing))**
 
 ## Models Used
 - Random Forest
